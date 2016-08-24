@@ -38,6 +38,9 @@ p {
     line-height: 1.6;
   }
 }
+.img-centered {
+  margin: 0 auto;
+}
 a {
   color: #42DCA3;
   -webkit-transition: all 0.2s ease-in-out;
@@ -358,15 +361,22 @@ section h3.section-subheading {
 .projects-modal .modal-content h2 {
   margin-bottom: 15px;
   font-size: 3em;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: black;
 }
 .projects-modal .modal-content p {
-  margin-bottom: 30px;
+  margin: 0 0 25px;
+  font-size: 18px;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  color: grey;
 }
 .projects-modal .modal-content p.item-intro {
   margin: 20px 0 30px;
-  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: italic;
   font-size: 16px;
+  color: black;
 }
 .projects-modal .modal-content ul.list-inline {
   margin-bottom: 30px;
