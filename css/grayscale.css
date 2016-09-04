@@ -251,6 +251,8 @@ a:focus {
     margin-top: 250px;
   }
 }
+
+/* THESE SHOULD BE REMOVED AT SOME POINT - REPRETITIVE FONT STUFF
 section {
   padding: 100px 0;
 }
@@ -266,7 +268,8 @@ section h3.section-subheading {
   font-style: italic;
   font-weight: 400;
   margin-bottom: 75px;
-}
+}*/
+
 @media (min-width: 768px) {
   section {
     padding: 150px 0;
@@ -381,6 +384,10 @@ section h3.section-subheading {
 .projects-modal .modal-content ul.list-inline {
   margin-bottom: 30px;
   margin-top: 0;
+  font-size: 16px;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  color: grey;
 }
 .projects-modal .modal-content img {
   margin-bottom: 30px;
