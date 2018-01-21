@@ -1,20 +1,21 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
+# tlarson07
 
-[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
+This [website](http://tlarson07.github.io/) hasn't been updated since 2016... sorry. It was created after my first coding class in high school. Why? Because the one I made it class was bad and that was bugging me. I think this is better. 
 
-## Getting Started
+## Lessons
+- Practice working with 'programming languages'(HTML, CSS)
+- Basic git features 
+- Problem solving UI bugs
+- Creating vector graphics in Adobe Illustrator 
+- Custimizing text editor (live HTML preview - atom)
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+## Future
 
-## Bugs and Issues
+You might be asking yourself if this will ever get a fresh coat of paint or some new content, probably not, but I won't say no. 
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
+## Special Thanks
 
-## Creator
-
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+Start Bootstrap Theme was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
 
 * https://twitter.com/davidmillerskt
 * https://github.com/davidtmiller
